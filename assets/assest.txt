@@ -1,0 +1,5 @@
+246256193 kSUiB447
+remove.bg
+ <img src="./apple-brands.svg" alt="" style="width: 6%; height: 11%; margin-top: 150px;margin-left: 10px;border: 2px solid white;border-radius: 50%;padding: 3px;background-color: white;">
+                <img src="./apple-brands.svg" alt="" style="width: 6%; height: 11%; margin-top: 150px;margin-left: 10px;border: 2px solid white;border-radius: 50%;padding: 3px;background-color: white;">
+                
